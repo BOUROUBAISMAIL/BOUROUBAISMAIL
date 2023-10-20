@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ISMAIL BOUROUBA</h1>
-<h3 align="center">Methodical, full of energy and trainable, I want to be part of a passionate team. I am a future full stack java engineer with expertise in nextjs and springboot</h3>
+<h3 align="center">Methodical, full of energy and trainable, I want to be part of a passionate team. I am a future full stack java engineer with expertise in nextjs/reactjs and springboot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouroubaismail&label=Profile%20views&color=0e75b6&style=flat" alt="bouroubaismail" /> </p>
 
