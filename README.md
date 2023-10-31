@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ISMAIL BOUROUBA</h1>
 <h3 align="center">Methodical, full of energy and trainable, I want to be part of a passionate team. I am a future full stack java engineer with expertise in nextjs/reactjs and springboot</h3>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouroubaismail&label=Profile%20views&color=0e75b6&style=flat" alt="bouroubaismail" /> </p>
 
 - 📫 How to reach me **ismail.boroba@gmail.com**
